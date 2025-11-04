@@ -15,7 +15,9 @@ define root view entity ZR_SFDK_FEEDBACK
       FeedbackText,
       Sentiment,
       Score,
+      @Semantics.systemDate.createdAt: true
       CreatedAt,
+      @Semantics.user.createdBy: true
       CreatedBy,
       _Users.UserName,
       LastChangedAt,

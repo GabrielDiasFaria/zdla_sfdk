@@ -1,0 +1,5 @@
+CLASS zbp_r_sfdk_feedback DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zr_sfdk_feedback.
+ENDCLASS.
+
+CLASS zbp_r_sfdk_feedback IMPLEMENTATION.
+ENDCLASS.
